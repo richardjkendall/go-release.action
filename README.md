@@ -2,6 +2,10 @@
 
 Automate publishing Go build artifacts for GitHub releases through GitHub Actions
 
+This is a fork of https://github.com/ngs/go-release.action
+
+I've updated the go version to 1.14.2
+
 ```yaml
 # .github/workflows/release.yaml
 
